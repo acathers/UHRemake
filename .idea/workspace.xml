@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f003838-138f-487d-8ace-057ca877042f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1XrzBovXRwV3vMK2AZNyencT8oa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f003838-138f-487d-8ace-057ca877042f" name="Default Changelist" comment="" />
+      <created>1581818868994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581818868994</updated>
+      <workItem from="1581818870076" duration="57000" />
+      <workItem from="1581818933074" duration="7767000" />
+      <workItem from="1581986674157" duration="22000" />
+      <workItem from="1581986701451" duration="13616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1584" y="838" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581990018999">
+      <screen x="110" y="0" width="3730" height="2160" />
+    </state>
+    <state x="1584" y="838" key="#com.intellij.fileTypes.FileTypeChooser/110.0.3730.2160@110.0.3730.2160" timestamp="1581990018999" />
+    <state x="975" y="768" width="646" height="623" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581986689693">
+      <screen x="110" y="0" width="3730" height="2160" />
+    </state>
+    <state x="975" y="768" width="646" height="623" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/110.0.3730.2160@110.0.3730.2160" timestamp="1581986689693" />
+    <state x="1218" y="530" key="SettingsEditor" timestamp="1581996775276">
+      <screen x="110" y="0" width="3730" height="2160" />
+    </state>
+    <state x="1218" y="530" key="SettingsEditor/110.0.3730.2160@110.0.3730.2160" timestamp="1581996775276" />
+  </component>
+</project>
